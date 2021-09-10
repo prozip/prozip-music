@@ -47,7 +47,7 @@ const StoreProvider = ({ children }) => {
     const [albumName, setAlbumName] = useState("Nhạc Việt")
 
     const store = {
-        srcRaw: "https://api.prozip-music.tk/src/",
+        srcRaw: "/music_collections/src/",
         audio: { audioInstance, isOpenPlayer, setOpenPlayer, isPlay, setPlay },
         audioList: { audioLists, setAudioLists },
         menu: { isMenuOpen, openMenu, closeMenu, cursorPos, setCursorPos },
