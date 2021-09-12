@@ -1,5 +1,0 @@
-esc: close playlist,
-space: play/pause
-(->, <-) : (+,-) 5s
-(up, down) arrow: +,- volume
-p: open playlist 
