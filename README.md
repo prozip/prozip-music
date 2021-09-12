@@ -2,22 +2,28 @@
 
 prozip-music is a simple audio streaming to play my own music collections. ----hope you liked it
 
-Deploy at: [prozip-music.tk](prozip-music.tk)
+Deploy at: [prozip-music.tk](https://prozip-music.tk/)
 
 ## Features 
 
-- AdsFree and Open Source
-- Playlists support 
-- Custom music play with Miniplay and PIP for music
-- Save history song
-- Song, Album, Artist search (update soon)
-- Lyrics Support (update soon)
-- User can contribute their song (update soon)
-- Desktop App version (update soon)
-- Download for offline play - with full ID3 tags
-- Dark mode
+- [x] AdsFree and Open Source
 
-
+- [x] Playlists support 
+- [x] Multiple playmode (order, loop, 1loop, shuffle)
+- [x] Custom music play
+- [x] Miniplay
+- [x] PIP player
+- [x] Custom context Menu
+- [ ] Hotkeys 
+- [ ] Local song player
+- [ ] Save history song 
+- [ ] add song to favorites 
+- [ ] Song, Album, Artist search
+- [ ] Lyrics Support
+- [ ] User can contribute their song
+- [ ] Desktop App version
+- [x] Download for offline play - with full ID3 tags
+- [x] Dark mode
 
 ## Albums
 
