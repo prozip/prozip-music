@@ -1,0 +1,8 @@
+{
+  "extends": ["next", "next/core-web-vitals"],
+  "rules": {
+    "react/display-name":"off",
+    "react/jsx-key":"off",
+    "react/no-children-prop":"off"
+  }
+}
